@@ -10771,7 +10771,7 @@ PrefabInstance:
     - target: {fileID: 114634906093864604, guid: 975d12c1f4445fe47afe0bf925747270,
         type: 3}
       propertyPath: transitionDestinationTag
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 975d12c1f4445fe47afe0bf925747270, type: 3}
